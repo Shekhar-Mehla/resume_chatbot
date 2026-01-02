@@ -1,0 +1,10 @@
+langchain
+langchain-text-splitters
+langchain-community 
+docx2txt
+sentence-transformers
+langchain-huggingface
+langchain-groq
+faiss-cpu
+python-dotenv
+
